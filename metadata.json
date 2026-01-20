@@ -1,0 +1,9 @@
+{
+  "name": "Copy of DisasterEye",
+  "description": "AI-powered Disaster Prediction & Emergency Planner. Features real-time risk analysis, digital twin simulation, and automated emergency response plans.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
