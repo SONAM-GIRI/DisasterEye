@@ -122,15 +122,6 @@ DisasterEye/
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Dashboard+Preview" alt="Dashboard" width="400" />
-  <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Map+View" alt="Map View" width="400" />
-</div>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
