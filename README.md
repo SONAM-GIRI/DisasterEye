@@ -1,4 +1,4 @@
-                            # 🌪️ DisasterEye
+# 🌪️ DisasterEye
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-19.2.1-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
